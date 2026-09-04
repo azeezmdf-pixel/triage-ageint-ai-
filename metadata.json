@@ -1,0 +1,6 @@
+{
+  "name": "TriageAI - 5-Agent Hospital Triage & Scheduling",
+  "description": "Autonomous 5-agent AI hospital triage system to categorize patient symptoms, evaluate clinical urgency protocols, execute emergency safety halts, and match specialists with priority scheduling.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
